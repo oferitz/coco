@@ -38,7 +38,7 @@ CoCo Starter Template provides my preferred setup for building modern single-pag
 
 1. **Clone the Repository** 📁
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/oferitz/coco
    cd coco-starter-template
    ```
 
